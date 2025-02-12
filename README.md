@@ -2,7 +2,7 @@
 
 Este proyecto es una aplicación básica de gestión de tareas construida con Java y Spring Boot. 
 Permite a los usuarios crear, leer, actualizar y eliminar tareas. La aplicación utiliza una base de datos H2 en memoria para almacenar las tareas.
-**Next update: MYSQL
+Iré añadiendo mas funcionalidad, el siguiente update será utilizar una base de datos persistente
 
 ## Características
 
