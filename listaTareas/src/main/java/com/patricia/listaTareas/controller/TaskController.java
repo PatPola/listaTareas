@@ -1,6 +1,5 @@
 package com.patricia.listaTareas.controller;
 
-import com.patricia.listaTareas.model.Category;
 import com.patricia.listaTareas.model.Task;
 import com.patricia.listaTareas.service.TaskService;
 import jakarta.persistence.EntityNotFoundException;
@@ -8,10 +7,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-
 import java.net.URI;
 import java.util.List;
-import java.util.Optional;
 
 @RestController
 @RequestMapping("api/task")
