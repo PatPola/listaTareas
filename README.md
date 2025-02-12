@@ -1,6 +1,6 @@
 # Lista de Tareas (Task List)
 
-Este proyecto es una aplicación básica de gestión de tareas construida con Java y Spring Boot. 
+Este proyecto es una aplicación básica de gestión de tareas construida con Java y Spring Boot utilizando Gradle para las dependencias. 
 Permite a los usuarios crear, leer, actualizar y eliminar tareas. La aplicación utiliza una base de datos H2 en memoria para almacenar las tareas.
 Iré añadiendo mas funcionalidad, el siguiente update será utilizar una base de datos persistente
 
@@ -26,9 +26,5 @@ Iré añadiendo mas funcionalidad, el siguiente update será utilizar una base d
 - **Java 21**.
 - **Spring Boot 3.4.2**
 
-## Configuración
 
-1. **Clonar el repositorio**:
 
-   ```bash
-   git clone https://github.com/PatPola/listaTareas.git
